@@ -10,7 +10,7 @@ So, in order to help their health, Moveit has a countdown that, when it reaches 
 he will receive an amount of experience, that will increase his level. If the user fails the challenge, he will not receive experience at all.
 
 <h1 align="center">
-    <img alt="Moveit" title="#Moveit" src=".github/Moveit.png" width="750px" />
+    <img alt="Moveit" title="#Moveit" src=".github/Moveit.png" width="650px" />
 </h1>
 
 ## :rocket: Technologies
