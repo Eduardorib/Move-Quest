@@ -22,9 +22,9 @@ he will receive an amount of experience, that will increase his level. If the us
 - [HTML][html]
 - [CSS][css]
 
-[nextjs] : https://nextjs.org
-[typescript] : https://www.typescriptlang.org
-[react] : https://reactjs.org
-[yarn] : https://yarnpkg.com
+[nextjs]: https://nextjs.org
+[typescript]: https://www.typescriptlang.org
+[react]: https://reactjs.org
+[yarn]: https://yarnpkg.com
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
