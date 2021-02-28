@@ -19,17 +19,15 @@ he will receive an amount of experience, that will increase his level. If the us
 
 - [Next.js][nextjs]
 - [TypeScript][typescript]
-- [React][react]
+- [ReactJS][react]
 - [Yarn][yarn]
-- [HTML][html]
-- [CSS][css]
+
 
 [nextjs]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
 [react]: https://reactjs.org
 [yarn]: https://yarnpkg.com
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 
 ## :hammer: Usage
 ### You need to install git, node and yarn ( or use npm )
