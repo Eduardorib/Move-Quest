@@ -2,7 +2,7 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
-# NLW4
+# NLW4 WIP
 
 ## :wrench: Project
 Moveit is an app created for those who spend a lot of hours in front of the computer and don't even remember to stand up and stretch their body a little and have a small break to their eyes. 
@@ -28,3 +28,5 @@ he will receive an amount of experience, that will increase his level. If the us
 [yarn]: https://yarnpkg.com
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+## :hammer: functionalities
