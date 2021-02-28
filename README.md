@@ -2,7 +2,9 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
-# NLW4 WIP
+<h1 align="center">
+    Moveit | NLW4
+</h1>
 
 ## :wrench: Project
 Moveit is an app created for those who spend a lot of hours in front of the computer and don't even remember to stand up and stretch their body a little and have a small break to their eyes. 
