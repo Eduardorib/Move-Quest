@@ -29,4 +29,21 @@ he will receive an amount of experience, that will increase his level. If the us
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-## :hammer: functionalities
+## :hammer: Usage
+### You need to install git, node and yarn ( or use npm )
+```
+# Clone Repository
+$ git clone https://github.com/Eduardorib/NLW4
+
+# Go to server folder
+$ cd NLW4
+
+# Install Dependencies
+$ yarn
+
+# Run Aplication
+$ yarn dev
+
+# Access localhost
+http://localhost:3000
+```
