@@ -33,10 +33,10 @@ he will receive an amount of experience, that will increase his level. If the us
 ### You need to install git, node and yarn ( or use npm )
 ```
 # Clone Repository
-$ git clone https://github.com/Eduardorib/NLW4
+$ git clone https://github.com/Eduardorib/Move-Quest
 
 # Go to server folder
-$ cd NLW4
+$ cd Move-Quest
 
 # Install Dependencies
 $ yarn
