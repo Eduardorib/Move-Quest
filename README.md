@@ -47,3 +47,5 @@ $ yarn dev
 # Access localhost
 http://localhost:3000
 ```
+## :pencil: License
+This project is under the MIT license.
